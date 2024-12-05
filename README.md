@@ -20,7 +20,7 @@ The project uses a dataset containing house-related features. Key attributes inc
 - Price: Selling price of the house (categorized into Low, Medium, High, Premium brackets).
 
 ## Data Preprocessing
-he dataset was preprocessed to include:
+The dataset was preprocessed to include:
 - Feature Engineering: Grouping Year Built, Area, and Price into brackets for better insights.
 - Categorization: Transforming continuous variables into ranges.
 - Cleaning: Ensuring consistency in data for analysis.
@@ -37,19 +37,19 @@ The dashboard contains the following visualizations:
 - Area vs. Price
   - Larger houses (Extra Large, Large) dominate the Premium price category.
   - Smaller homes fall predominantly into Low or Medium price ranges.
-# Location vs. Price
+### Location vs. Price
 - Houses in Downtown and Urban areas command higher prices compared to Rural or Suburban areas.
-# Condition vs. Price
+### Condition vs. Price
 - Houses rated as Excellent mostly appear in High and Premium brackets.
 - Poor-condition houses rarely exceed Medium prices.
-# Garage and Floors vs. Price
+### Garage and Floors vs. Price
 - Houses with a garage consistently have higher prices.
 - Three-floor houses with a garage are priced the highest on average.
-# Year Built vs. Price
+### Year Built vs. Price
 - Houses built Post-2000 have significantly higher average prices compared to older constructions.
 
-## Libraries and Tools
+#### Libraries and Tools
 This project leverages the following tools:
-Microsoft Excel: For data visualization and interactive dashboards.
-Pivot Tables and Charts: To summarize and visualize data.
-Slicers: For filtering data dynamically.
+- Microsoft Excel: For data visualization and interactive dashboards.
+- Pivot Tables and Charts: To summarize and visualize data.
+- Slicers: For filtering data dynamically.
