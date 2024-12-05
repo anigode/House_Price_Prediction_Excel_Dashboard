@@ -34,7 +34,7 @@ The dashboard contains the following visualizations:
 - Price by Floors and Garage: A line chart visualizing price variations based on floor count and garage availability.
 
 ## Insights
-- Area vs. Price
+### Area vs. Price
   - Larger houses (Extra Large, Large) dominate the Premium price category.
   - Smaller homes fall predominantly into Low or Medium price ranges.
 ### Location vs. Price
